@@ -1,0 +1,8 @@
+E:\proj\StudentDbProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\proj\StudentDbProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\proj\StudentDbProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\proj\StudentDbProject\DataAccessLayer\bin\Debug\BusinessEntityLayer.dll
+E:\proj\StudentDbProject\DataAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+E:\proj\StudentDbProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\proj\StudentDbProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\proj\StudentDbProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
